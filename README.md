@@ -6,6 +6,9 @@ Here we will be able to see some React.js seed projects, their pros and cons.
 | **babel**     |           ✓                | ✓                                      |
 | es6           |✓                 |    ✓                                   |
 | hmr           | ✓                   |  ✓                                     |
+|linter|✓|✓|
+|livereload|✓|✓|
+|inline style||✓|
 
 
 
@@ -17,8 +20,3 @@ Here we will be able to see some React.js seed projects, their pros and cons.
 
 
 
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
