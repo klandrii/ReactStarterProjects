@@ -11,7 +11,7 @@ Here we will be able to see some React.js seed projects, their pros and cons.
 |linter|✓|✓|
 |livereload|✓|✓|
 |inline style||✓|
-|react-route||✓|
+|react-router||✓|
 |redux||✓|
 |universal|✓|✓|
 |webpack|✓|✓|
