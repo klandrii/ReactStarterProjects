@@ -1,6 +1,8 @@
 # React Starter Projects comparison
 Here we will be able to see some React.js seed projects, their pros and cons.
 
+# Stater projects
+
 |               | kriasoft/react-starter-kit | erikas/react-redux-universal-hot-example|
 | ------------- |:--------------------------:| ---------------------------------------:|
 | **babel**     |           ✓                | ✓                                      |
@@ -9,8 +11,12 @@ Here we will be able to see some React.js seed projects, their pros and cons.
 |linter|✓|✓|
 |livereload|✓|✓|
 |inline style||✓|
-
-
+|react-route||✓|
+|redux||✓|
+|universal|✓|✓|
+|webpack|✓|✓|
+|tests|✓|✓|
+|GraphQL|✓|||
 
 
 
