@@ -1,11 +1,22 @@
 # React Starter Projects comparison
 Here we will be able to see some React.js seed projects, their pros and cons.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|               | kriasoft/react-starter-kit | erikas/react-redux-universal-hot-example|
+| ------------- |:--------------------------:| ---------------------------------------:|
+| **babel**     |           ✓                | ✓                                      |
+| es6           |✓                 |    ✓                                   |
+| hmr           | ✓                   |  ✓                                     |
+
+
+
+
+
+
+
+
+
+
+
 
 Markdown | Less | Pretty
 --- | --- | ---
